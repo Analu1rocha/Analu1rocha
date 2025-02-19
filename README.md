@@ -45,7 +45,7 @@ Além dessas, também trabalho com **infraestrutura, banco de dados e testes aut
 ## 📫 Contato
 
 📩 Email: [analua.rocha@outlook.com](mailto:analua.rocha@outlook.com)  
-💼 LinkedIn: [linkedin.com/in/ana-luiza-rocha](#)  
-🌍 Portfólio: [https://tiemnos.com.br/](#)
+💼 LinkedIn: [[linkedin.com/in/ana-luiza-rocha](https://www.linkedin.com/in/ana-luiza-rocha-a77655244/)] 
+🌍 Portfólio: [tiemnos.com.br/](https://www.tiemnos.com.br)
 
 Se quiser bater um papo sobre tecnologia ou colaborações, fique à vontade para me chamar! 🚀
