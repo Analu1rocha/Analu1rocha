@@ -32,9 +32,9 @@ Além dessas, também trabalho com **infraestrutura, banco de dados e testes aut
 
 ## 📌 Projetos em Destaque
 
-🔹 [Açai do Guri](https://github.com/https://github.com/Analu1rocha/entrelacos/acai-do-guri) – Um site simples para uma loja de açaí, com foco em uma interface de usuário amigável e design responsivo.
+🔹 [Açai do Guri](https://github.com/Analu1rocha/acai-do-guri) – Um site simples para uma loja de açaí, com foco em uma interface de usuário amigável e design responsivo.
 
-🔹 [Entrelaços]https://github.com/Analu1rocha/entrelacos) – Loja virtual de macramê, com personalização de produtos e integração simples para facilitar as compras online.
+🔹 [Entrelaços](https://github.com/Analu1rocha/entrelacos) – Loja virtual de macramê, com personalização de produtos e integração simples para facilitar as compras online.
 
 🔹 [Projeto React + Node.js](https://github.com/Analu1rocha/projeto-react-node) – Uma aplicação full stack usando React para o frontend e Node.js no backend. Um exemplo de sistema simples para gerenciar tarefas com login de usuário.
 
